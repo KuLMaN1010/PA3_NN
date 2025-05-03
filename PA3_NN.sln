@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PA3_NN", "PA3_NN\PA3_NN.pyproj", "{AEBA1404-17DE-4392-B9B7-BAB143D5E0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBA1404-17DE-4392-B9B7-BAB143D5E0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBA1404-17DE-4392-B9B7-BAB143D5E0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {540F0001-B6E6-4C9A-B639-F157F85DCD39}
+	EndGlobalSection
+EndGlobal
