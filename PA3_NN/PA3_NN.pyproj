@@ -21,7 +21,23 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="download_cifar10.py" />
+    <Compile Include="kaggle_submission.py" />
+    <Compile Include="models\neural_net.py" />
     <Compile Include="PA3_NN.py" />
+    <Compile Include="utils\data_process.py" />
+    <Compile Include="utils\gradient_check.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="models\" />
+    <Folder Include="cifar10\" />
+    <Folder Include="utils\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cifar10\.gitignore" />
+    <Content Include="cifar10\get_datasets.sh" />
+    <Content Include="develop_neural_network.ipynb" />
+    <Content Include="neural_network.ipynb" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
