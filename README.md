@@ -1,6 +1,6 @@
 # Neural-Network
 
-**PA3_NN** is a project for implementing a neural network (NN) model to solve a specific machine learning task (e.g. classification, regression, etc.). The goal is to demonstrate understanding of neural network fundamentals: architecture, training, evaluation, and possibly advanced features like regularization or dropout.
+**Neural-Network** is a project for implementing a neural network (NN) model to solve a specific machine learning task (e.g. classification, regression, etc.). The goal is to demonstrate understanding of neural network fundamentals: architecture, training, evaluation, and possibly advanced features like regularization or dropout.
 
 ---
 
